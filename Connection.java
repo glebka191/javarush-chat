@@ -1,3 +1,5 @@
+//класс соединения между клиентом и сервером.//
+
 package com.javarush.task.task30.task3008;
 
 
